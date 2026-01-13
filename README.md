@@ -16,12 +16,12 @@ https://coderqueen123.github.io/Portfolio-website/
 - Portfolio Website
 
 📩 Contact:
-WhatsApp: +91XXXXXXXXXX
-Email: yourmail@gmail.com
+WhatsApp: +919380034404
+Email: misbadukandar2@gmail.com
 ✔ Responsive portfolio website
 ✔ Built using HTML, CSS, JavaScript
 ✔ Mobile-friendly design
 ✔ Suitable for personal & business use
 
 📩 Contact for similar website:
-WhatsApp: +91XXXXXXXXXX
+WhatsApp: +919380034404
